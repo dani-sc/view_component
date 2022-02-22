@@ -9,6 +9,10 @@ title: Changelog
 
 ## main
 
+* Add missing config options to `config.view_component`.
+
+    *Simon Fish*
+
 ## 2.56.2
 
 * Restore removed `rendered_component`, marking it for deprecation in v3.0.0.
