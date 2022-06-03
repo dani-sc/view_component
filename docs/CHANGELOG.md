@@ -13,6 +13,10 @@ title: Changelog
 
     *Simon Fish*
 
+* Add missing `require` for `Translatable` module in `Base`.
+
+    *Hans Lemuet*
+
 ## 2.56.2
 
 * Restore removed `rendered_component`, marking it for deprecation in v3.0.0.
